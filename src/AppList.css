@@ -1,0 +1,18 @@
+.applist-container {
+  margin: 25px;
+}
+.applist {
+  border: 1px solid black;
+  width: fit-content;
+}
+.options {
+  margin: 50px;
+}
+.ratings {
+  display: inline-block;
+}
+.submit-btn {
+  margin-top: 40px;
+  width: 300px;
+  height: 30px;
+}
